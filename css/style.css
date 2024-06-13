@@ -1,0 +1,28 @@
+
+#header-bg{
+    background-image:url("../mainnow.jpg") ;
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    padding: 1rem 1rems;
+    margin: auto;
+}
+
+#nails{
+    display: flex;
+    justify-content: space space-between;
+}
+
+#ul-list{
+    display: flex;
+    gap: 30px;
+    text-decoration: none;
+    list-style: none;
+font-weight: bold;
+font-size: large;
+}
+
+.nav-links{
+    text-decoration: none;
+    color: black;
+}
